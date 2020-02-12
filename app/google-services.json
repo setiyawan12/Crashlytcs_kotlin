@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "233996441745",
+    "firebase_url": "https://crashlytcskotlin.firebaseio.com",
+    "project_id": "crashlytcskotlin",
+    "storage_bucket": "crashlytcskotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233996441745:android:8a03b72289d70797f14730",
+        "android_client_info": {
+          "package_name": "com.example.crashlytcs_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233996441745-sbbnbf24873g8llh9asc18ql1qkpgouu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crashlytcs_kotlin",
+            "certificate_hash": "84036691112c118064e141b69ddbe0b784e729f9"
+          }
+        },
+        {
+          "client_id": "233996441745-b80e1n848a4u5qnf2favb4510pdcd20p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9YTQQh9MH90zv8aFl3ycK6HOSpd6wALY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233996441745-b80e1n848a4u5qnf2favb4510pdcd20p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
